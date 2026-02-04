@@ -1,0 +1,11 @@
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT_6.Form1.resources
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT_6.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\bin\Debug\ACT 6.exe.config
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\bin\Debug\ACT 6.exe
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\bin\Debug\ACT 6.pdb
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.exe
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.pdb
+C:\Users\ACT-STUDENT\Documents\ACT 6\ACT 6\obj\Debug\ACT 6.exe.config
