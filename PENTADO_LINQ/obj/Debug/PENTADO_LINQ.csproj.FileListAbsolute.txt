@@ -1,0 +1,12 @@
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\bin\Debug\PENTADO_LINQ.exe.config
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\bin\Debug\PENTADO_LINQ.exe
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\bin\Debug\PENTADO_LINQ.pdb
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.Form1.resources
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.Properties.Resources.resources
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.exe
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.pdb
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\PENTADO_LINQ.exe.config
+C:\Users\ACT-STUDENT\source\repos\PENTADO_LINQ\obj\Debug\LinqExample.Form1.resources
